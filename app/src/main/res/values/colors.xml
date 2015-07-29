@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#ff56f56e</color>
+    <color name="ToolbarprimaryColor">#ff35c02c</color>
+    <color name="primaryDarkColor">#ff008226</color>
+    <color name="navDrawerAccentColor">#03A9F4</color>
+</resources>
